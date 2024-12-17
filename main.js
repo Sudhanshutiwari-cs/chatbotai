@@ -4,7 +4,7 @@ const userInput = document.getElementById('user-input');
 const sendButton = document.getElementById('send-btn');
 
 // Your Gemini API key - In production, this should be secured
-const API_KEY = 'AIzaSyA4odgQl1YyCHqYd7UaKTDXS-G_6hsY3iI';
+const API_KEY = 'AIzaSyDSmQghTCkpyVF0YGaNGw6KmRqY9LoDwws';
 const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent';
 
 // Context for the pharmacy chatbot
